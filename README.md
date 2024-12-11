@@ -2,7 +2,7 @@
 Voyageur is a revolutionary group travel planning app, designed to simplify and enhance your travel planning experience. With a mission to create seamless collaboration, Voyageur helps groups organize trips efficiently, balancing individual preferences and collective needs.
 
 # Team Members
-### Team ID : 
+### Team ID : C242 - PS488
 
 <br>
 
@@ -14,4 +14,7 @@ Voyageur is a revolutionary group travel planning app, designed to simplify and 
 | 4      | Cloud Computing   | C296B4KY0961      | Daffa Ahmad Baihaqi     | Active      |
 | 5      | Cloud Computing   | C296B4KY2992      | Muhammad Rafi Irsyadhie | Active      |
 | 6      | Mobile Development| A296B4KY1114      | Dias Norman             | Active      |
+
 <br>
+
+
