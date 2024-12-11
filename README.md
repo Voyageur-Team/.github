@@ -1,7 +1,7 @@
 # Voyageur - Group Planner App
 Voyageur is a revolutionary group travel planning app, designed to simplify and enhance your travel planning experience. With a mission to create seamless collaboration, Voyageur helps groups organize trips efficiently, balancing individual preferences and collective needs.
 
-#Our Teams
+# Our Teams
 ### Team ID : C242 - PS488
 
 <br>
@@ -16,5 +16,14 @@ Voyageur is a revolutionary group travel planning app, designed to simplify and 
 | 6      | Mobile Development| A296B4KY1114      | Dias Norman             | Active      |
 
 <br>
+
+
+### Repositories
+|   Learning Paths   |                                Link                                |
+| :----------------: | :----------------------------------------------------------------: |
+| Mobile Development | [Github](https://github.com/Voyageur-Team/MobileDevelopment) |
+|  Machine Learning  |  [Github](https://github.com/Voyageur-Team/Machine-Learning)  |
+|   Cloud Computing  |   [Github](https://github.com/Voyageur-Team/CloudComputing)  |
+
 
 
