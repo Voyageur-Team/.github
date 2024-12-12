@@ -50,6 +50,70 @@ Ensures secure and scalable backend services for real-time collaboration and dat
 
 - Repository: [Cloud Computing](https://github.com/Voyageur-Team/CloudComputing)
 
+
+# Getting Started
+
+- **Prerequisites**
+
+  1.  Android
+  2.  Internet connection
+
+- **Installation**
+
+  1.  Download the APK
+  2.  Install the APK
+
+- **Register**
+
+  1.  Open Voyageur application
+  2.  Register your account
+
+# Usage
+- How to get Itineraries Recommendations
+
+  1.  Login to your accounts
+  2.  Create a trip
+  3.  Add participants to trip
+  4.  Input your preferences destination, category destination, preffered dates, and your budgets
+  5.  All participants must input data, and then you can generate Recommendations Itineraries
+
+# Product
+
+1. [Voyageur Apps](https://drive.google.com/file/d/1mOrzOlg7dMto_mDC1edDPVJK-NGy0sRC/view?usp=sharing)
+2. [Web Service](https://api-voyageur-501935072870.asia-southeast2.run.app/)
+   <br>
+
+# Technology Used
+
+1. Machine Learning
+   - [Tensorflow](https://www.tensorflow.org/)
+   - [Python](https://www.python.org/)
+2. Android Development
+   - [Kotlin](https://kotlinlang.org/)
+   - [Google Cloud](https://cloud.google.com/)
+3. Cloud Computing
+   - [Google Compute Engine](https://cloud.google.com/compute)
+   - [Google App Engine](https://cloud.google.com/appengine)
+   - [Google Cloud Firestore](https://cloud.google.com/firestore)
+   - [Google Cloud Bucket Storage](https://cloud.google.com/storage)
+4. Design
+   - [Figma](https://www.figma.com/design/lWTlIIcPclnOZmaLSMSJdN/Capstone-Project-Voyageur-(C242-PS488)---Bangkit-Academy-led-by-Google%2C-GoTo%2C-Traveloka?node-id=0-1&t=Q6tuDlCCZ6Thyr6p-1)
+     <br>
+
+
+# Contributing
+
+We are very open to any input, therefore we want to make contributing to this project as easy and transparent as possible, whether it's:
+
+- Reporting a bug
+- Discussing the current state of the code
+- Submitting a fix
+- Proposing new features
+- Becoming a maintainer
+
+If you think something important is missing or should be different based on your experience, we'd love to have you contribute to this project. If you have suggestions for improving these apps, please [contact](https://github.com/Voyageur-Team) the existing ones.
+
+
 ---
 
 
