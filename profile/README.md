@@ -1,5 +1,5 @@
-# Voyageur - Group Planner App
-Voyageur is a revolutionary group travel planning app, designed to simplify and enhance your travel planning experience. With a mission to create seamless collaboration, Voyageur helps groups organize trips efficiently, balancing individual preferences and collective needs.
+# Voyageur - A Collaborative Trip Planning App
+Voyageur is a collaborative trip planning application designed to simplify group travel. The app helps users coordinate destinations, schedules, and budgets effortlessly while ensuring every group member's preferences are considered with vote-based system. With features like destination recommendations, itinerary customization, real-time collaboration, and budget management tools, Voyageur transforms the complexities of group trip planning into a smooth and enjoyable experience. Whether you're planning a family vacation, a getaway with friends, or a corporate retreat, Voyageur makes organizing group trips as fun as the journey itself.
 
 # Our Teams
 ### Team ID : C242 - PS488
